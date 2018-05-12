@@ -1,0 +1,26 @@
+_repo: The-Story-of-the--9th-King-s--in-France_16974
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 16974-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, Enos Herbert Glynne
+    gutenberg_agent_id: '7064'
+    url: http://www.gutenberg.org/2009/agents/7064
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. King''s Liverpool Regiment. Battalion, 9th'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+title: The Story of the "9th King's" in France
+url: http://www.gutenberg.org/ebooks/16974
