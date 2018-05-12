@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7064'
     url: http://www.gutenberg.org/2009/agents/7064
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16974#The-Story-of-the--9th-King-s--in-France
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-10-31'
 gutenberg_type: Text
